@@ -1,0 +1,6 @@
+
+/src/my-app/node_modules
+
+/src/my-app/yarn-error.log
+/src/my-app/yarn.lock
+
